@@ -1,0 +1,130 @@
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\App.xbf
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\MainPage.xbf
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.xr.xml
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.exe
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.pdb
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\resources.pri
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\AppxManifest.xml
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.build.appxrecipe
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.g.i.cs
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.g.cs
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.g.i.cs
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.g.cs
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.xaml
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.xbf
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.xaml
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.xbf
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Goals.exe
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Goals.pdb
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\priconfig.xml
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\layout.resfiles
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\resources.resfiles
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\pri.resfiles
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\qualifiers.txt
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.g.i.cs
+C:\Users\Ayse Enver\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.g.cs
+C:\Users\Ayse Enver\documents\visual studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.xaml
+C:\Users\Ayse Enver\documents\visual studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.xbf
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.g.i.cs
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.g.cs
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.g.i.cs
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.g.cs
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.g.i.cs
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.g.cs
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.xaml
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.xaml
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.xaml
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.xbf
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.xbf
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.xbf
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\App.xbf
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\AddGoal.xbf
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\MainPage.xbf
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.xr.xml
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.exe
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.pdb
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\resources.pri
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\AppxManifest.xml
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.build.appxrecipe
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Goals.exe
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Goals.pdb
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\priconfig.xml
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\layout.resfiles
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\resources.resfiles
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\pri.resfiles
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\qualifiers.txt
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\UpdateJournal.xbf
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\UpdateJournal.g.i.cs
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\UpdateJournal.g.cs
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\UpdateJournal.xaml
+C:\Users\Ayse\Main folder\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\UpdateJournal.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\App.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\AddGoal.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\MainPage.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.xr.xml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.exe
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.pdb
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\resources.pri
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\AppxManifest.xml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Goals.build.appxrecipe
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.g.i.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.g.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.g.i.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.g.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.g.i.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.g.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.xaml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.xaml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.xaml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\App.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\AddGoal.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MainPage.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Goals.exe
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Goals.pdb
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\priconfig.xml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\layout.resfiles
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\resources.resfiles
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\pri.resfiles
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\qualifiers.txt
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\Finances.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\WeightLoss.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Finances.g.i.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Finances.g.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\WeightLoss.g.i.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\WeightLoss.g.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\WeightLoss.xaml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\WeightLoss.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Finances.xaml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\Finances.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\UpdateDetails.g.i.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\UpdateDetails.g.cs
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\UpdateDetails.xaml
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\obj\Debug\UpdateDetails.xbf
+C:\Users\Ayse\Documents\Visual Studio 2015\Projects\Goals\Goals\bin\Debug\UpdateDetails.xbf

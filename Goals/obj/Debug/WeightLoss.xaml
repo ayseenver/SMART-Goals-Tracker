@@ -1,0 +1,88 @@
+﻿<Page
+    x:Class="Goals.WeightLoss"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Goals"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar x:Name="SaveGoal">
+            <AppBarButton x:ConnectionId='1' Name ="SaveButton" 
+                          Icon="Save" 
+                          Label="Save goal"
+                                                    />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" 
+                   Margin="34,42,0,0" 
+                   TextWrapping="Wrap" 
+                   Text="Units:" 
+                   VerticalAlignment="Top" Height="60"
+                   FontSize="18"/>
+        <ComboBox x:Name="comboBox"
+                  HorizontalAlignment="Left" 
+                  Margin="34,68,0,0" 
+                  VerticalAlignment="Top"
+                  Width="318">
+            <ComboBoxItem 
+                Content="KG" 
+                HorizontalAlignment="Left"
+                IsSelected="True"
+                Width="313.333312988281"/>
+            <ComboBoxItem 
+                Content="Lbs" 
+                HorizontalAlignment="Left" 
+                Width="313.333312988281"/>
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Left" 
+            Margin="34,145,0,0" 
+            TextWrapping="Wrap" 
+            Text="Initial measurement:" 
+            VerticalAlignment="Top" Height="60"
+            FontSize="18" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" 
+            Margin="232,145,0,0" 
+            TextWrapping="Wrap" 
+            Text="Target measurement:" 
+            VerticalAlignment="Top" Height="60"
+            FontSize="18" Width="120"/>
+
+        <TextBox x:Name="initialTextBox" 
+                 HorizontalAlignment="Left" 
+                 Margin="34,205,0,0" 
+                 TextWrapping="Wrap"                 
+                 VerticalAlignment="Top"
+                 InputScope="Number"
+                 Text="0"/>
+        <TextBox x:Name="targetTextBox" 
+                 HorizontalAlignment="Left" 
+                 Margin="232,205,0,0" 
+                 TextWrapping="Wrap" 
+                 VerticalAlignment="Top"
+                 InputScope="Number"
+                 Text="0"/>
+        <RadioButton x:Name="ascendingButton" 
+                     Content="Ascending" 
+                     HorizontalAlignment="Left" 
+                     Margin="34,294,0,0" 
+                     VerticalAlignment="Top"/>
+        <RadioButton x:Name="decendingButton" 
+                     Content="Decending" 
+                     HorizontalAlignment="Left" 
+                     Margin="207,294,0,0" 
+                     IsChecked="True"
+                     VerticalAlignment="Top"/>
+        <TextBlock x:Name="tooMuchWeight" 
+                   HorizontalAlignment="Left" 
+                   Margin="34,379,0,0"
+                   TextWrapping="Wrap" 
+                   Text="" 
+                   VerticalAlignment="Top" 
+                   Height="103" Width="318"/>
+    </Grid>
+</Page>
+

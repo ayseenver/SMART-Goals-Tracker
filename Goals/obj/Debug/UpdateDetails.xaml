@@ -1,0 +1,84 @@
+﻿<Page
+    x:Class="Goals.UpdateDetails"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Goals"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" 
+            Margin="26,66,0,0" 
+            TextWrapping="Wrap" 
+            Text="Initial measurement:" 
+            VerticalAlignment="Top" Height="60"
+            FontSize="18" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" 
+            Margin="224,66,0,0" 
+            TextWrapping="Wrap" 
+            Text="Target measurement:" 
+            VerticalAlignment="Top" Height="60"
+            FontSize="18" Width="120"/>
+
+        <TextBox x:Name="initialTextBox" 
+            HorizontalAlignment="Left" 
+            Margin="26,126,0,0" 
+            TextWrapping="Wrap"                 
+            VerticalAlignment="Top"
+            InputScope="Number"/>
+        <TextBox x:Name="targetTextBox" 
+            HorizontalAlignment="Left" 
+            Margin="224,126,0,0" 
+            TextWrapping="Wrap" 
+            VerticalAlignment="Top"
+            InputScope="Number"/>
+        <RadioButton x:Name="ascendingButton" 
+            Content="Ascending" 
+            HorizontalAlignment="Left" 
+            Margin="26,195,0,0" 
+            VerticalAlignment="Top"/>
+        <RadioButton x:Name="decendingButton" 
+            Content="Decending" 
+            HorizontalAlignment="Left" 
+            Margin="199,195,0,0" 
+            IsChecked="True"
+            VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" 
+            Margin="28,276,0,0" 
+            TextWrapping="Wrap" 
+            Text="Priority:" 
+            VerticalAlignment="Top"
+            FontSize="18"/>
+        <TextBlock HorizontalAlignment="Left" 
+            Margin="24,480,0,0" 
+            TextWrapping="Wrap" 
+            Text="When should this be done by?" 
+            VerticalAlignment="Top"
+            FontSize="18"/>
+        <DatePicker x:Name ="DatePicker1"
+            HorizontalAlignment="Left" 
+            Margin="24,512,0,0" 
+            VerticalAlignment="Top" 
+            Height="95" Width="240"/>
+        <RadioButton x:Name="radioButtonLow" 
+            Content="Low" 
+            HorizontalAlignment="Left" 
+            Margin="28,287,0,0" 
+            VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButtonMedium" 
+            Content="Medium" 
+            HorizontalAlignment="Left" 
+            Margin="26,339,0,0"
+            IsChecked="True"
+            VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButtonHigh" 
+            Content="High" 
+            HorizontalAlignment="Left" 
+            Margin="26,392,0,0" 
+            VerticalAlignment="Top"/>
+
+    </Grid>
+</Page>
+

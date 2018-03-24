@@ -1,0 +1,90 @@
+﻿<Page
+    x:Class="Goals.AddGoal"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Goals"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar x:Name="SaveGoal">
+            <AppBarButton Name ="SaveButton" 
+                          Icon="Save" 
+                          Label="Save goal"
+                          Click="AppBarButton_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" 
+                   Margin="34,138,0,0" 
+                   TextWrapping="Wrap" 
+                   Text="Goal Type:" 
+                   VerticalAlignment="Top" Height="60"
+                   FontSize="18"/>
+        <TextBlock HorizontalAlignment="Left" 
+                   Margin="34,239,0,0" 
+                   TextWrapping="Wrap" 
+                   Text="Priority:" 
+                   VerticalAlignment="Top"
+                   FontSize="18"/>
+        <TextBlock HorizontalAlignment="Left" 
+            Margin="36,458,0,0" 
+            TextWrapping="Wrap" 
+            Text="When should this be done by?" 
+            VerticalAlignment="Top"
+            FontSize="18"/>
+        <DatePicker Name ="DatePicker1"
+                    HorizontalAlignment="Left" 
+                    Margin="36,490,0,-5" 
+                    VerticalAlignment="Top" 
+                    Height="95" Width="240"
+                    DateChanged="DatePicker1_DateChanged"/>
+        <RadioButton x:Name="radioButtonLow" 
+                     Content="Low" 
+                     HorizontalAlignment="Left" 
+                     Margin="36,277,0,0" 
+                     VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButtonMedium" 
+                     Content="Medium" 
+                     HorizontalAlignment="Left" 
+                     Margin="34,329,0,0"
+                     IsChecked="True"
+                     VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButtonHigh" 
+                     Content="High" 
+                     HorizontalAlignment="Left" 
+                     Margin="34,382,0,0" 
+                     VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBox"
+                  HorizontalAlignment="Left" 
+                  Margin="34,150,0,0" 
+                  VerticalAlignment="Top"
+                  Width="318">
+            <ComboBoxItem 
+                Content="Weight loss / gain" 
+                HorizontalAlignment="Left" 
+                Width="313.333312988281"/>
+            <ComboBoxItem 
+                Content="Finances" 
+                HorizontalAlignment="Left" 
+                Width="313.333312988281"/>
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Left" 
+            Margin="34,48,0,0" 
+            TextWrapping="Wrap" 
+            Text="Goal name:" 
+            VerticalAlignment="Top" Height="60"
+            FontSize="18"/>
+        <TextBox x:Name="nameTextBox" 
+            HorizontalAlignment="Left" 
+            Margin="36,69,0,0" 
+            TextWrapping="Wrap" 
+            VerticalAlignment="Top" 
+            Height="39" Width="316" 
+            PlaceholderText="Enter name of goal here:"
+            LostFocus="nameTextBox_LostFocus_1"/>
+
+
+    </Grid>
+</Page>
